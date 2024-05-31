@@ -15,7 +15,7 @@ Sou uma *Software Developer* apaixonada por tecnologia e inovação, atualmente 
 - *Bacharelado em Ciência da Computação* - [UniAmerica] (4º Período)
 
 ### Contato
-- *LinkedIn:* ](https://www.linkedin.com/in/nirmala-fonseca-a577b3255/)
+- *LinkedIn:* (https://www.linkedin.com/in/nirmala-fonseca-a577b3255/)
 - *Email:* (ninadevireis@gmail.com)
 
 ---
