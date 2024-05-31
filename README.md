@@ -8,8 +8,8 @@ Sou uma *Software Developer* apaixonada por tecnologia e inovação, atualmente 
 - *Metodologias:* Desenvolvimento Ágil, Scrum
 
 ### Projetos
-- *[Cardápio de Sushi] (https://niihdfr.github.io/sushi-cardapio/):* Desenvolvi um site mobile interativo para um restaurante de sushi que permite aos clientes visualizar o cardápio e fazer pedidos diretamente pelo WhatsApp. Utilizei JavaScript, HTML e CSS para criar uma experiência de usuário fluida.
-- *[Cardápio de Hamburgueria] (https://niihdfr.github.io/cardapio-hamb/):* Criei um site para uma hamburgueria que permite pedidos apenas durante o horário de funcionamento. Utilizei HTML, Tailwind CSS e JavaScript para implementar essa funcionalidade e garantir uma interface amigável.
+- *[Cardápio de Sushi](https://niihdfr.github.io/sushi-cardapio/): *Desenvolvi um site mobile interativo para um restaurante de sushi que permite aos clientes visualizar o cardápio e fazer pedidos diretamente pelo WhatsApp. Utilizei JavaScript, HTML e CSS para criar uma experiência de usuário fluida.
+- *[Cardápio de Hamburgueria](https://niihdfr.github.io/cardapio-hamb/): * Criei um site para uma hamburgueria que permite pedidos apenas durante o horário de funcionamento. Utilizei HTML, Tailwind CSS e JavaScript para implementar essa funcionalidade e garantir uma interface amigável.
 
 ### Educação
 - *Bacharelado em Ciência da Computação* - [UniAmerica] (4º Período)
