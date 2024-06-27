@@ -1,5 +1,5 @@
 ### Sobre Mim
-Sou uma *Software Developer* apaixonada por tecnologia e inovação, atualmente cursando o 3º período de Bacharelado em Ciência da Computação. Tenho experiência em desenvolvimento web, especialmente utilizando *React* e *JavaScript*.
+Sou uma *Software Developer* apaixonada por tecnologia e inovação, atualmente cursando o 4º período de Bacharelado em Ciência da Computação. Tenho experiência em desenvolvimento web, especialmente utilizando *React* e *JavaScript*.
 
 ### Habilidades Técnicas
 - *Linguagens de Programação:* JavaScript, HTML, CSS
