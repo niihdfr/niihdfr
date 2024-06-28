@@ -16,7 +16,7 @@ Sou uma *Software Developer* apaixonada por tecnologia e inovação, atualmente 
 
 ### Contato
 - [*LinkedIn*](https://www.linkedin.com/in/nirmala-fonseca-a577b3255/)
-- *Email:* ninadevireis@gmail.com
+- *Email:* nifonseca.job@gmail.com
 
 ---
 
