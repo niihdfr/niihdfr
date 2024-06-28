@@ -7,14 +7,14 @@ Sou uma *Software Developer* apaixonada por tecnologia e inovação, atualmente 
 - *Ferramentas:* Git, GitHub, Figma
 
 ### Projetos
-- *[ChatUOL](https://niihdfr.github.io/chatUOL/): *  Desenvolvi recentemente o chatUOL, uma aplicação de chat em tempo real construída com HTML, CSS, JavaScript e integração com API usando Axios. Permite comunicação instantânea entre usuários, suportando mensagens públicas e privadas, além de atualizações de status automáticas. Implementei recursos como rolagem automática para novas mensagens e marcação de usuários ativos.
-- *[Cardápio de Sushi](https://niihdfr.github.io/sushi-cardapio/): * Desenvolvi um site mobile interativo para um restaurante de sushi que permite aos clientes visualizar o cardápio e fazer pedidos diretamente pelo WhatsApp. Utilizei JavaScript, HTML e CSS para criar uma experiência de usuário fluida.
-- *[Cardápio de Hamburgueria](https://niihdfr.github.io/cardapio-hamb/): * Criei um site para uma hamburgueria que permite pedidos apenas durante o horário de funcionamento. Utilizei HTML, Tailwind CSS e JavaScript para implementar essa funcionalidade e garantir uma interface amigável.
+- *[ChatUOL](https://niihdfr.github.io/chatUOL/): *💬  Desenvolvi recentemente o chatUOL, uma aplicação de chat em tempo real construída com HTML, CSS, JavaScript e integração com API usando Axios. Permite comunicação instantânea entre usuários, suportando mensagens públicas e privadas, além de atualizações de status automáticas. Implementei recursos como rolagem automática para novas mensagens e marcação de usuários ativos.
+- *[Cardápio de Sushi](https://niihdfr.github.io/sushi-cardapio/):🍣 * Desenvolvi um site mobile interativo para um restaurante de sushi que permite aos clientes visualizar o cardápio e fazer pedidos diretamente pelo WhatsApp. Utilizei JavaScript, HTML e CSS para criar uma experiência de usuário fluida.
+- *[Cardápio de Hamburgueria](https://niihdfr.github.io/cardapio-hamb/):🍔 * Criei um site para uma hamburgueria que permite pedidos apenas durante o horário de funcionamento. Utilizei HTML, Tailwind CSS e JavaScript para implementar essa funcionalidade e garantir uma interface amigável.
 
-### Educação
+### Educação 📚
 - *Bacharelado em Ciência da Computação* - [UniAmerica] (4º Período)
 
-### Contato
+### Contato 💌
 - [*LinkedIn*](https://www.linkedin.com/in/nirmala-fonseca-a577b3255/)
 - *Email:* nifonseca.job@gmail.com
 
