@@ -12,7 +12,7 @@ Sou uma *Software Developer* apaixonada por tecnologia e inovação, atualmente 
 - *[Cardápio de Hamburgueria](https://niihdfr.github.io/cardapio-hamb/):🍔 * Criei um site para uma hamburgueria que permite pedidos apenas durante o horário de funcionamento. Utilizei HTML, Tailwind CSS e JavaScript para implementar essa funcionalidade e garantir uma interface amigável.
 
 ### Educação 📚
-- *Bacharelado em Ciência da Computação* - [UniAmerica] (4º Período)
+- *Bacharelado em Ciência da Computação* - [UniAmerica] (3º Período)
 
 ### Contato 💌
 - [*LinkedIn*](https://www.linkedin.com/in/nirmala-fonseca-a577b3255/)
